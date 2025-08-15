@@ -65,5 +65,5 @@ This project is an advanced auto check-in bot for APR.IO, developed and maintain
 - Free and open for everyone
 
 ### Join the Community
-Register and explore more tools at [https://thedropsadata.online](https://thedropsadata.online)
+Register and explore more tools at [https://thedropsdata.online](https://thedropsdata.online)
 More features and bots coming soon. Register now and be part of the next generation of web3 automation!
